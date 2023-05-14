@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["X_CENTER","Y_CENTER"],"fn":["parse_players","player_side","save_players"],"struct":["Message","Player"]};

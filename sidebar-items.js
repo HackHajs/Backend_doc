@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["clear","create_player","get_players","judge","main","player_count","send_question","update_player"],"mod":["players","questions"],"struct":["clear","create_player","get_players","judge","player_count","send_question","update_player"]};
+window.SIDEBAR_ITEMS = {"fn":["clear","create_player","get_players","judge","main","player_count","questionid","send_question","update_player"],"mod":["players","questions"],"struct":["clear","create_player","get_players","judge","player_count","questionid","send_question","update_player"]};
